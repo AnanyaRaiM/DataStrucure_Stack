@@ -1,2 +1,2 @@
-# DataStrucure_Stack-
+# DataStrucure_Stack
 Practice Stack with generics 
